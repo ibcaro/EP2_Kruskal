@@ -6,3 +6,5 @@ ou você vai inserindo as arestas de menor custo, tomando o cuidado de não form
 ciclos, ou você vai retirando as arestas de maior custo, tomando o cuidado de não
 desconectar o grafo. É tarefa do grupo resolver problemas como representação do
 grafo, verificação de ciclos ou de desconexão do grafo.
+
+<img width="373" height="367" alt="image" src="https://github.com/user-attachments/assets/ce70e31e-4a34-4d4f-880b-b186e35bbdaf" />
